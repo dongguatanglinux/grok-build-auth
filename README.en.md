@@ -135,6 +135,16 @@ Security: private channel only — [`SECURITY.md`](SECURITY.md).
 
 ---
 
+## Community
+
+| Channel | Purpose |
+|---|---|
+| [**LINUX DO**](https://linux.do/) | Technical discussion, protocol research feedback, long-term notes |
+| QQ group **`1058789350`** | Real-time Chinese community chat |
+| GitHub Issues | Bug reports and PRs (primary entry) |
+
+---
+
 ## Disclaimer
 
 > [!IMPORTANT]
