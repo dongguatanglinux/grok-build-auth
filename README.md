@@ -249,10 +249,19 @@ python xai_build_quota_probe.py --auth-dir ./cliproxyapi_auth
 
 ---
 
+## 社区
+
+| 渠道 | 用途 |
+|---|---|
+| [**LINUX DO**](https://linux.do/) | 技术讨论、协议研究反馈、长期记录 |
+| QQ 群 **`1058789350`** | 中文圈实时交流 |
+| GitHub Issues | bug 报告与 PR（主入口） |
+
+---
+
 ## 致谢
 
 - [curl_cffi](https://github.com/lexiforest/curl_cffi) — TLS / HTTP2 指纹会话  
-- [CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) — 本地 auth 文件互操作约定（非本项目隶属）  
 - 相关公开 Web 标准：OAuth 2.0、PKCE、gRPC-web  
 
 ---
